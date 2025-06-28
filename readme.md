@@ -26,25 +26,25 @@ Settings are saved to `~/.apikey` and remembered between sessions.
 
 ### Using OpenAI
 ```bash
-$ python chng.py --setup
+chng --setup
 API URL: https://api.openai.com/v1
 Port: [enter]
 API Key: sk-...
 Model: gpt-4
 
-$ python chng.py feature.diff
+chng feature.diff
 ✓ Saved to changelog-feature.md
 ```
 
 ### Using Local Model
 ```bash
-$ python chng.py --setup
+chng --setup
 API URL: http://localhost:11434/v1
 Port: [enter]
 API Key: [enter]
 Model: llama2
 
-$ python chng.py changes.diff
+chng changes.diff
 ✓ Saved to changelog-changes.md
 ```
 ---
@@ -87,5 +87,5 @@ $ python chng.py changes.diff
 ## 📁 License
 MIT
 ---
-## ✍️ Created with 🦀 by developers  
+## ✍️ Created with ☕️ by developers  
 Who have better things to do than write changelogs.
