@@ -84,8 +84,11 @@ chng changes.diff
 - Use local models to keep code 100% private
 - No telemetry or usage tracking
 ---
-## 📁 License
-MIT
+## 📄 License
+
+under ☕️, check out [the-coffee-license](https://github.com/codinganovel/The-Coffee-License)
+
+I've included both licenses with the repo, do what you know is right. The licensing works by assuming you're operating under good faith.
 ---
-## ✍️ Created with ☕️ by developers  
-Who have better things to do than write changelogs.
+## ✍️ Created with ☕️ by a developer 
+Who has better things to do than write changelogs.
